@@ -162,8 +162,7 @@ client.on('messageCreate', async (message) => {
 
     // For now use the default prefix
     let prefix = general.default_prefix;
-    client.settings[message.guild.id] = { 'server_id': message.guild.id, 'prefix': '!', 'mod_role': 0, 'setup_already': '1' };
-    console.log(message.guild.id);
+    client.settings[message.guild.id] = { 'server_id': message.guild.id, 'prefix': prefix, 'mod_role': 0, 'setup_already': '1' };
 
     // Check if prefix match
     const prefixRegex = new RegExp(`^(<@!?${client.user.id}>|${escapeRegex(prefix)})\\s*`);
