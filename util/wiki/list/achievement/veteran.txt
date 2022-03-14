@@ -1,0 +1,21 @@
+```
+╔═══╦═════════════╦═══════════╗
+║   ║ DESCRIPTION ║   REWARD  ║
+╠═══╬═════════════╬═══════════╣
+║ 1 ║     Be a    ║   Sprite  ║
+║   ║    member   ║   Wings   ║
+║   ║    of the   ║     &     ║
+║   ║  community  ║  7,000 XP ║
+║   ║    for a    ║           ║
+║   ║ whole year! ║           ║
+║   ║ (Level 35+) ║           ║
+╠═══╬═════════════╬═══════════╣
+║ 2 ║     Be a    ║  Cape of  ║
+║   ║    member   ║  Thousand ║
+║   ║    of the   ║    Days   ║
+║   ║  community  ║     &     ║
+║   ║     for     ║ 10,000 XP ║
+║   ║  1000 days! ║           ║
+║   ║ (Level 35+) ║           ║
+╚═══╩═════════════╩═══════════╝
+```

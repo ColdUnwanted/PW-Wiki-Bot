@@ -1,0 +1,11 @@
+```
+╔══════════════════════╦══════════╗
+║        EFFECT        ║   LEVEL  ║
+║                      ║ UNLOCKED ║
+╠══════════════════════╬══════════╣
+║   Extends the range  ║    50    ║
+║   of placing blocks  ║          ║
+║ and using the wrench ║          ║
+║    up to 3 blocks    ║          ║
+╚══════════════════════╩══════════╝
+```

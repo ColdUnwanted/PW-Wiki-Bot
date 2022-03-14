@@ -1,0 +1,12 @@
+```md
+1. Healthy
+2. Nice Catch
+3. Gem Rescue
+4. Careful Wreck
+5. Melee Madness
+6. One More Try
+7. Scent of Gold
+8. Armorer
+9. Beneficial Savagery
+10. Butterfly Hunter
+```

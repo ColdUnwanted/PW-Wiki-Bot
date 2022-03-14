@@ -1,0 +1,1118 @@
+{
+    "butterfly": {
+        "allias": [
+            "bfly",
+            "butterfly quest",
+            "butterflyquest",
+            "bfly quest",
+            "bflyquest"
+        ],
+        "title": "Butterfly Quest",
+        "datas": [
+            {
+                "file": "util/wiki/list/bfly1.txt",
+                "useWiki": true,
+                "data": [
+                    "Empress",
+                    "Green Nurse",
+                    "Orange Tipper",
+                    "Black Lightning",
+                    "Diaper Moth",
+                    "Garden Moth",
+                    "Pearl Heath",
+                    "Siren Hawk Moth",
+                    "Small Tortoiseshell",
+                    "Small Brimstone"
+                ]
+            },
+            {
+                "file": "util/wiki/list/bfly2.txt",
+                "useWiki": true,
+                "data": [
+                    "White Nun",
+                    "Birch Glider",
+                    "Pale Legate",
+                    "Stud Moth",
+                    "Bittywee Hawk Moth",
+                    "Crush Pearl",
+                    "Dirty Lemon",
+                    "Lemon Moth",
+                    "Willowherb Hawk Moth",
+                    "Green Dwarf"
+                ]
+            },
+            {
+                "file": "util/wiki/list/bfly3.txt",
+                "useWiki": true,
+                "data": [
+                    "Red Dot Moth",
+                    "Blue Dwarf",
+                    "Paper Kite",
+                    "Tiger Longtail",
+                    "Rose Moth",
+                    "Blue Emperor",
+                    "Blue Eyed Empress",
+                    "Camoflage Moth",
+                    "Admiral",
+                    "Blue Bottom"
+                ]
+            },
+            {
+                "file": "util/wiki/list/bfly4.txt",
+                "useWiki": true,
+                "data": [
+                    "Bedstraw Hawk Moth",
+                    "Shadow Longtail",
+                    "Burp Moth",
+                    "Pink Delight",
+                    "Zebra Longtail",
+                    "Green Nun",
+                    "Monkey Bum",
+                    "Red Orchae",
+                    "Peacock Moth",
+                    "Rainbow Chitoria"
+                ]
+            },
+            {
+                "file": "util/wiki/list/bfly5.txt",
+                "useWiki": true,
+                "data": [
+                    "Neon Striper",
+                    "Lilium Haste",
+                    "Peacock Behemoth",
+                    "Blue Knight",
+                    "Blood Moth",
+                    "Yellow Dwarf",
+                    "Gray Glass Wing",
+                    "Poison Wing",
+                    "Pink Cheeks",
+                    "Blue Night"
+                ]
+            },
+            {
+                "file": "util/wiki/list/bfly6.txt",
+                "useWiki": true,
+                "data": [
+                    "Apollon",
+                    "Lava Moth",
+                    "Blue Ivory",
+                    "Skull Hawk Moth",
+                    "Purple Haze",
+                    "Pink Heart",
+                    "Salamander Moth",
+                    "Night Sky",
+                    "Polilla Gigante",
+                    "Lava Aglais"
+                ]
+            },
+            {
+                "file": "util/wiki/list/bfly7.txt",
+                "useWiki": true,
+                "data": [
+                    "Orange Tiger Tip",
+                    "Azure Flapper",
+                    "Violet Colossus",
+                    "Emerald Hawk Moth"
+                ]
+            }
+        ]
+    },
+    "achievements": {
+        "allias": [
+            "achieve",
+            "achievement"
+        ],
+        "title": "Achivements",
+        "datas": [
+            {
+                "file": "util/wiki/list/achievement1.txt",
+                "useWiki": true,
+                "data": [
+                    "Bronze Medal",
+                    "Silver Medal",
+                    "Gold Medal",
+                    "Bronze Goblet",
+                    "Silver Goblet",
+                    "Gold Goblet",
+                    "Leet Jumpsuit",
+                    "Golden Visor",
+                    "Raven Wingsies",
+                    "Golden Wings"
+                ]
+            },
+            {
+                "file": "util/wiki/list/achievement2.txt",
+                "useWiki": false,
+                "data": [
+                    "Veteran",
+                    "Smasher",
+                    "Hoarder",
+                    "Gem Farmer",
+                    "Well Connected",
+                    "Shard Fuser",
+                    "Master Crafter",
+                    "Critic",
+                    "Shopping Spree",
+                    "World Hunter"
+                ]
+            },
+            {
+                "file": "util/wiki/list/achievement3.txt",
+                "useWiki": false,
+                "data": [
+                    "Quests' King",
+                    "Fashionista",
+                    "Familiar Cook",
+                    "Evolver",
+                    "Archaeologist",
+                    "Trasher",
+                    "Nether",
+                    "Slayer",
+                    "Crossbreeder",
+                    "Lepidopterist"
+                ]
+            },
+            {
+                "file": "util/wiki/list/achievement4.txt",
+                "useWiki": false,
+                "data": [
+                    "Untouchable!",
+                    "Pacifist",
+                    "Tagger",
+                    "Speeder",
+                    "Superhero",
+                    "Alchemist",
+                    "Master Fisher",
+                    "Rodster",
+                    "Trophy Fish",
+                    "Trusted Friend"
+                ]
+            },
+            {
+                "file": "util/wiki/list/achievement5.txt",
+                "useWiki": false,
+                "data": [
+                    "My World",
+                    "Instagram",
+                    "Youtube",
+                    "Secret Achievement 1",
+                    "Secret Achievement 2",
+                    "Buy Buy Buy!",
+                    "Sell Sell Sell!",
+                    "Master of Bytes",
+                    "Wraith's Bane",
+                    "Well Done!"
+                ]
+            },
+            {
+                "file": "util/wiki/list/achievement6.txt",
+                "useWiki": false,
+                "data": [
+                    "Wandering Companion",
+                    "Epic Miner",
+                    "Escapist",
+                    "Jet Racer",
+                    "Gotta Get'em All"
+                ]
+            }
+        ],
+        "veteran": {
+            "file": "util/wiki/list/achievement/veteran.txt",
+            "useWiki": true,
+            "data": [
+                "Sprite Wings",
+                "Cape of Thousand Days"
+            ],
+            "image": "util/wiki/list/achievement/icon/365.png"
+        },
+        "smasher": {
+            "file": "util/wiki/list/achievement/smasher.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/Smasher.png"
+        },
+        "hoarder": {
+            "file": "util/wiki/list/achievement/hoarder.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/Hoarder.png"
+        },
+        "gem farmer": {
+            "file": "util/wiki/list/achievement/gem_farmer.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/GemFarmer.png"
+        },
+        "well connected": {
+            "file": "util/wiki/list/achievement/well_connected.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/WellConnected.png"
+        },
+        "shard fuser": {
+            "file": "util/wiki/list/achievement/shard_fuser.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/ShardFuser.png"
+        },
+        "master crafter": {
+            "file": "util/wiki/list/achievement/master_crafter.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/MasterCrafter.png"
+        },
+        "critic": {
+            "file": "util/wiki/list/achievement/critic.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/Critic.png"
+        },
+        "shopping spree": {
+            "file": "util/wiki/list/achievement/shopping_spree.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/ShoppingSpree.png"
+        },
+        "world hunter": {
+            "file": "util/wiki/list/achievement/world_hunter.txt",
+            "useWiki": true,
+            "data": [
+                "Adventurer Hat",
+                "Adventurer Shoes",
+                "Adventurer Pants",
+                "Adventurer Shirt"
+            ],
+            "image": "util/wiki/list/achievement/icon/LockBreaker.png"
+        },
+        "quests' king": {
+            "file": "util/wiki/list/achievement/quests_king.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/QuestsKing.png"
+        },
+        "fashionista": {
+            "file": "util/wiki/list/achievement/fashionista.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/Fashionista.png"
+        },
+        "familiar cook": {
+            "file": "util/wiki/list/achievement/familiar_cook.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/Feeder.png"
+        },
+        "evolver": {
+            "file": "util/wiki/list/achievement/evolver.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/FamiliarEvolver.png"
+        },
+        "archaeologist": {
+            "file": "util/wiki/list/achievement/archaeologist.txt",
+            "useWiki": true,
+            "data": [
+                "Bone Hammer",
+                "Bone Armor",
+                "Bone Helmet"
+            ],
+            "image": "util/wiki/list/achievement/icon/FossilHunter.png"
+        },
+        "harvester": {
+            "file": "util/wiki/list/achievement/harvester.txt",
+            "useWiki": true,
+            "data": [
+                "Sickle"
+            ],
+            "image": "util/wiki/list/achievement/icon/Harvester.png"
+        },
+        "trasher": {
+            "file": "util/wiki/list/achievement/trasher.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/Trasher.png"
+        },
+        "nether": {
+            "file": "util/wiki/list/achievement/nether.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/Nether.png"
+        },
+        "slayer": {
+            "file": "util/wiki/list/achievement/slayer.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/Slayer.png"
+        },
+        "crossbreeder": {
+            "file": "util/wiki/list/achievement/crossbreeder.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/Crossbreeder.png"
+        },
+        "lepidopterist": {
+            "file": "util/wiki/list/achievement/lepidopterist.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/Lepidopterist.png"
+        },
+        "untouchable!": {
+            "file": "util/wiki/list/achievement/untouchable.txt",
+            "useWiki": true,
+            "data": [
+                "Hero Necklace"
+            ],
+            "image": "util/wiki/list/achievement/icon/Untouchable.png"
+        },
+        "pacifist": {
+            "file": "util/wiki/list/achievement/pacifist.txt",
+            "useWiki": true,
+            "data": [
+                "Pacifist Wreath"
+            ],
+            "image": "util/wiki/list/achievement/icon/Pacifist.png"
+        },
+        "tagger": {
+            "file": "util/wiki/list/achievement/tagger.txt",
+            "useWiki": true,
+            "data": [
+                "Street Artist Shoes",
+                "Street Artist Pants",
+                "Street Artist Shirt",
+                "Street Artist Scarf",
+                "Street Artist Mask"
+            ],
+            "image": "util/wiki/list/achievement/icon/Tagger.png"
+        },
+        "speeder": {
+            "file": "util/wiki/list/achievement/speeder.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/Speder.png"
+        },
+        "superhero": {
+            "file": "util/wiki/list/achievement/superhero.txt",
+            "useWiki": true,
+            "data": [
+                "Heroic Blindfold"
+            ],
+            "image": "util/wiki/list/achievement/icon/Superhero.png"
+        },
+        "alchemist": {
+            "file": "util/wiki/list/achievement/alchemist.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/Alchemist.png"
+        },
+        "master fisher": {
+            "file": "util/wiki/list/achievement/master_fisher.txt",
+            "useWiki": true,
+            "data": [
+                "Old Diving Shoes",
+                "Old Diving Gloves",
+                "Old Diving Suit",
+                "Old Diving Helmet"
+            ],
+            "image": "util/wiki/list/achievement/icon/MasterFisher.png"
+        },
+        "rodster": {
+            "file": "util/wiki/list/achievement/rodster.txt",
+            "useWiki": true,
+            "data": [
+                "Fishing Amulet"
+            ],
+            "image": "util/wiki/list/achievement/icon/Rodster.png"
+        },
+        "trophy fish": {
+            "file": "util/wiki/list/achievement/trophy_fish.txt",
+            "useWiki": true,
+            "data": [
+                "Bubble Pipe"
+            ],
+            "image": "util/wiki/list/achievement/icon/TrophyFish.png"
+        },
+        "trusted friend": {
+            "file": "util/wiki/list/achievement/trusted_friend.txt",
+            "useWiki": true,
+            "data": [
+                "Blue Cape"
+            ],
+            "image": "util/wiki/list/achievement/icon/TrustedFriend.png"
+        },
+        "my world": {
+            "file": "util/wiki/list/achievement/my_world.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/MyWorld.png"
+        },
+        "instagram": {
+            "file": "util/wiki/list/achievement/instagram.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/Instagram.png"
+        },
+        "youtube": {
+            "file": "util/wiki/list/achievement/youtube.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/Youtube.png"
+        },
+        "steam": {
+            "file": "util/wiki/list/achievement/steam.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/Steam.png"
+        },
+        "secret achievement 1": {
+            "file": "util/wiki/list/achievement/secret_achievement_1.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/Secret1.png"
+        },
+        "secret achievement 2": {
+            "file": "util/wiki/list/achievement/secret_achievement_2.txt",
+            "useWiki": true,
+            "data": [
+                "Steel Mace"
+            ],
+            "image": "util/wiki/list/achievement/icon/Secret2.png"
+        },
+        "buy buy buy!": {
+            "file": "util/wiki/list/achievement/buy_buy_buy.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/BuyBuyBuy.png"
+        },
+        "sell sell sell!": {
+            "file": "util/wiki/list/achievement/sell_sell_sell.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/SellSellSell.png"
+        },
+        "master of bytes": {
+            "file": "util/wiki/list/achievement/master_of_bytes.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/MasterOfBytes.png"
+        }
+        ,
+        "wraith's bane": {
+            "file": "util/wiki/list/achievement/wraith_bane.txt",
+            "useWiki": true,
+            "data": [
+                "Key of the Deep"
+            ],
+            "image": "util/wiki/list/achievement/icon/WraithsBane.png"
+        },
+        "well done!": {
+            "file": "util/wiki/list/achievement/well_done.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/GoodBoy.png"
+        },
+        "wandering companion": {
+            "file": "util/wiki/list/achievement/wandering_companion.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/WanderingCompanion.png"
+        },
+        "epic miner": {
+            "file": "util/wiki/list/achievement/epic_miner.txt",
+            "useWiki": true,
+            "data": [
+                "Classic Pickaxe"
+            ],
+            "image": "util/wiki/list/achievement/icon/EpicMiner.png"
+        },
+        "escapist": {
+            "file": "util/wiki/list/achievement/escapist.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/Escapist.png"
+        },
+        "jet racer": {
+            "file": "util/wiki/list/achievement/jet_racer.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/JetRacer.png"
+        },
+        "gotta get'em all": {
+            "file": "util/wiki/list/achievement/gotta_getem_all.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/achievement/icon/GetEmAll.png"
+        }
+    },
+    "fishing gear": {
+        "allias": [
+            "fishing",
+            "gear",
+            "fgear"
+        ],
+        "title": "Fishing Gear",
+        "datas": [
+            {
+                "file": "util/wiki/list/fishing_gear1.txt",
+                "useWiki": true,
+                "data": [
+                    "Seadog Hat",
+                    "Seadog Coat",
+                    "Peg Leg Pants",
+                    "Seadog Beard",
+                    "Rodster Hat",
+                    "Rodster Toga",
+                    "Rodster Sandals",
+                    "Rodster Net",
+                    "Rodster Fishbasket",
+                    "Pro Fisher Visor Hat"
+                ]
+            },
+            {
+                "file": "util/wiki/list/fishing_gear2.txt",
+                "useWiki": true,
+                "data": [
+                    "Pro Fisher Glasses",
+                    "Pro Fisher Face Scarf",
+                    "Pro Fisher Suit",
+                    "Bait Hat",
+                    "Lure Hat",
+                    "Lure Vest",
+                    "Bait Vest",
+                    "Fish Shoes",
+                    "Worm Tail",
+                    "Snufnomad Hat"
+                ]
+            },
+            {
+                "file": "util/wiki/list/fishing_gear3.txt",
+                "useWiki": true,
+                "data": [
+                    "Snufnomad Scarf",
+                    "Fisher Whistle",
+                    "Bait Earring",
+                    "Worm Necklace",
+                    "Bubble Pipe",
+                    "Fishing Amulet"
+                ]
+            }
+        ]
+    },
+    "fossils": {
+        "allias": [
+            "fossil",
+            "fossil list"
+        ],
+        "title": "Fossils",
+        "datas": [
+            {
+                "file": "util/wiki/list/fossils/winged_humanoid.txt",
+                "useWiki": true,
+                "data": [
+                    "Winged Humanoid - part1",
+                    "Winged Humanoid - part2",
+                    "Winged Humanoid - part3",
+                    "Winged Humanoid - part4"
+                ],
+                "image": "util/wiki/list/fossils/icon/WingedHumanoidComplete.png"
+            },
+            {
+                "file": "util/wiki/list/fossils/sarcosuchus.txt",
+                "useWiki": true,
+                "data": [
+                    "Sarcosuchus Fossil - part1",
+                    "Sarcosuchus Fossil - part2",
+                    "Sarcosuchus Fossil - part3",
+                    "Sarcosuchus Fossil - part4"
+                ],
+                "image": "util/wiki/list/fossils/icon/SarcosuchusComplete.png"
+            },
+            {
+                "file": "util/wiki/list/fossils/trex.txt",
+                "useWiki": true,
+                "data": [
+                    "T-Rex Fossil - part1",
+                    "T-Rex Fossil - part2",
+                    "T-Rex Fossil - part3",
+                    "T-Rex Fossil - part4",
+                    "T-Rex Fossil - part5",
+                    "T-Rex Fossil - part6",
+                    "T-Rex Fossil - part7",
+                    "T-Rex Fossil - part8",
+                    "T-Rex Fossil - part9"
+                ],
+                "image": "util/wiki/list/fossils/icon/T-RexComplete.png"
+            },
+            {
+                "file": "util/wiki/list/fossils/pikamon.txt",
+                "useWiki": true,
+                "data": [
+                    "Pikamon - part1",
+                    "Pikamon - part2",
+                    "Pikamon - part3",
+                    "Pikamon - part4"
+                ],
+                "image": "util/wiki/list/fossils/icon/PikamonComplete.png"
+            },
+            {
+                "file": "util/wiki/list/fossils/dragon.txt",
+                "useWiki": true,
+                "data": [
+                    "Dragon Fossil - part1",
+                    "Dragon Fossil - part2",
+                    "Dragon Fossil - part3",
+                    "Dragon Fossil - part4",
+                    "Dragon Fossil - part5",
+                    "Dragon Fossil - part6",
+                    "Dragon Fossil - part7"
+                ],
+                "image": "util/wiki/list/fossils/icon/DragonComplete.png"
+            }
+        ]
+    },
+    "graffiti": {
+        "allias": [
+            "graffitis"
+        ],
+        "title": "Graffiti",
+        "datas": [
+            {
+                "file": "util/wiki/list/graffiti/bbb.txt",
+                "useWiki": true,
+                "data": [
+                    "BBB Graffiti - part1",
+                    "BBB Graffiti - part2"
+                ],
+                "image": "util/wiki/list/graffiti/icon/BBB.png"
+            },
+            {
+                "file": "util/wiki/list/graffiti/urban.txt",
+                "useWiki": true,
+                "data": [
+                    "Urban Graffiti - part1",
+                    "Urban Graffiti - part2",
+                    "Urban Graffiti - part3",
+                    "Urban Graffiti - part4",
+                    "Urban Graffiti - part5",
+                    "Urban Graffiti - part6"
+                ],
+                "image": "util/wiki/list/graffiti/icon/Urban.png"
+            },
+            {
+                "file": "util/wiki/list/graffiti/uvs.txt",
+                "useWiki": true,
+                "data": [
+                    "UVS Graffiti - part1",
+                    "UVS Graffiti - part2",
+                    "UVS Graffiti - part3",
+                    "UVS Graffiti - part4",
+                    "UVS Graffiti - part5",
+                    "UVS Graffiti - part6"
+                ],
+                "image": "util/wiki/list/graffiti/icon/UVS.png"
+            },
+            {
+                "file": "util/wiki/list/graffiti/jake.txt",
+                "useWiki": true,
+                "data": [
+                    "Jake Graffiti - part1",
+                    "Jake Graffiti - part2",
+                    "Jake Graffiti - part3",
+                    "Jake Graffiti - part4"
+                ],
+                "image": "util/wiki/list/graffiti/icon/Jake.png"
+            },
+            {
+                "file": "util/wiki/list/graffiti/pw.txt",
+                "useWiki": true,
+                "data": [
+                    "PW Graffiti - part1",
+                    "PW Graffiti - part2",
+                    "PW Graffiti - part3",
+                    "PW Graffiti - part4",
+                    "PW Graffiti - part5",
+                    "PW Graffiti - part6"
+                ],
+                "image": "util/wiki/list/graffiti/icon/PW.png"
+            },
+            {
+                "file": "util/wiki/list/graffiti/small_pw.txt",
+                "useWiki": true,
+                "data": [
+                    "Small PW Graffiti"
+                ],
+                "image": "util/wiki/list/graffiti/icon/SmallPW.png"
+            },
+            {
+                "file": "util/wiki/list/graffiti/heart.txt",
+                "useWiki": true,
+                "data": [
+                    "Heart Graffiti - part1",
+                    "Heart Graffiti - part2",
+                    "Heart Graffiti - part3",
+                    "Heart Graffiti - part4",
+                    "Heart Graffiti - part5",
+                    "Heart Graffiti - part6"
+                ],
+                "image": "util/wiki/list/graffiti/icon/Heart.png"
+            },
+            {
+                "file": "util/wiki/list/graffiti/cloverleaf.txt",
+                "useWiki": true,
+                "data": [
+                    "Cloverleaf Graffiti - part1",
+                    "Cloverleaf Graffiti - part2",
+                    "Cloverleaf Graffiti - part3",
+                    "Cloverleaf Graffiti - part4",
+                    "Cloverleaf Graffiti - part5",
+                    "Cloverleaf Graffiti - part6"
+                ],
+                "image": "util/wiki/list/graffiti/icon/Cloverleaf.png"
+            },
+            {
+                "file": "util/wiki/list/graffiti/easter.txt",
+                "useWiki": true,
+                "data": [
+                    "Easter Graffiti part 1",
+                    "Easter Graffiti part 2",
+                    "Easter Graffiti part 3",
+                    "Easter Graffiti part 4",
+                    "Easter Graffiti part 5",
+                    "Easter Graffiti part 6",
+                    "Easter Graffiti part 7",
+                    "Easter Graffiti part 8",
+                    "Easter Graffiti part 9"
+                ],
+                "image": "util/wiki/list/graffiti/icon/Easter.png"
+            },
+            {
+                "file": "util/wiki/list/graffiti/summer.txt",
+                "useWiki": true,
+                "data": [
+                    "Summer Graffiti - part1",
+                    "Summer Graffiti - part2",
+                    "Summer Graffiti - part3",
+                    "Summer Graffiti - part4",
+                    "Summer Graffiti - part5",
+                    "Summer Graffiti - part6"
+                ],
+                "image": "util/wiki/list/graffiti/icon/Summer.png"
+            },
+            {
+                "file": "util/wiki/list/graffiti/halloween.txt",
+                "useWiki": true,
+                "data": [
+                    "Halloween Graffiti - part1",
+                    "Halloween Graffiti - part2",
+                    "Halloween Graffiti - part3",
+                    "Halloween Graffiti - part4",
+                    "Halloween Graffiti - part5",
+                    "Halloween Graffiti - part6"
+                ],
+                "image": "util/wiki/list/graffiti/icon/Halloween.png"
+            },
+            {
+                "file": "util/wiki/list/graffiti/xmas.txt",
+                "useWiki": true,
+                "data": [
+                    "XMAS Graffiti - part1",
+                    "XMAS Graffiti - part2",
+                    "XMAS Graffiti - part3",
+                    "XMAS Graffiti - part4",
+                    "XMAS Graffiti - part5",
+                    "XMAS Graffiti - part6"
+                ],
+                "image": "util/wiki/list/graffiti/icon/XMAS.png"
+            },
+            {
+                "file": "util/wiki/list/graffiti/2020.txt",
+                "useWiki": true,
+                "data": [
+                    "2020 Graffiti - part 1",
+                    "2020 Graffiti - part 2",
+                    "2020 Graffiti - part 3",
+                    "2020 Graffiti - part 4",
+                    "2020 Graffiti - part 5",
+                    "2020 Graffiti - part 6"
+                ],
+                "image": "util/wiki/list/graffiti/icon/2020.png"
+            }
+        ]
+    },
+    "perks": {
+        "allias": [
+            "perk"
+        ],
+        "title": "Perks",
+        "datas": [
+            {
+                "file": "util/wiki/list/perk1.txt",
+                "useWiki": false,
+                "data": [
+                    "Healthy",
+                    "Nice Catch",
+                    "Gem Rescue",
+                    "Careful Wreck",
+                    "Melee Madness",
+                    "One More Try",
+                    "Scent of Gold",
+                    "Armorer",
+                    "Beneficial Savagery",
+                    "Butterfly Hunter"
+                ]
+            },
+            {
+                "file": "util/wiki/list/perk2.txt",
+                "useWiki": false,
+                "data": [
+                    "Builder",
+                    "Sub-aquatic",
+                    "Fire Walker",
+                    "Here Comes The Pain",
+                    "Helping Hand",
+                    "Heavy Hit",
+                    "Fish On!",
+                    "Bullseye",
+                    "Elemental Armor",
+                    "Bad Bowels"
+                ]
+            },
+            {
+                "file": "util/wiki/list/perk3.txt",
+                "useWiki": false,
+                "data": [
+                    "Healthy Hit",
+                    "Quest Hoarder",
+                    "Critical Strike",
+                    "Booster Booster",
+                    "Kamikaze",
+                    "Exploding Guts",
+                    "Immovable",
+                    "Fierce Companion",
+                    "Confusing Blow",
+                    "Stockbroker"
+                ]
+            },
+            {
+                "file": "util/wiki/list/perk4.txt",
+                "useWiki": false,
+                "data": [
+                    "Puzzle Master",
+                    "Antidote",
+                    "Pet Trainer",
+                    "Flying Magnet",
+                    "Vampire"
+                ]
+            }
+        ],
+        "healthy": {
+            "file": "util/wiki/list/perk/healthy.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/healthy.png"
+        },
+        "nice catch": {
+            "file": "util/wiki/list/perk/nice_catch.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/nice_catch.png"
+        },
+        "gem rescue": {
+            "file": "util/wiki/list/perk/gem_rescue.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/gem_rescue.png"
+        },
+        "careful wreck": {
+            "file": "util/wiki/list/perk/careful_wreck.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/careful_wreck.png"
+        },
+        "melee madness": {
+            "file": "util/wiki/list/perk/melee_madness.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/melee_madness.png"
+        },
+        "one more try": {
+            "file": "util/wiki/list/perk/one_more_try.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/one_more_try.png"
+        },
+        "scent of gold": {
+            "file": "util/wiki/list/perk/scent_of_gold.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/scent_of_gold.png"
+        },
+        "armorer": {
+            "file": "util/wiki/list/perk/armorer.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/armorer.png"
+        },
+        "beneficial savagery": {
+            "file": "util/wiki/list/perk/beneficial_savagery.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/beneficial_savagery.png"
+        },
+        "butterfly hunter": {
+            "file": "util/wiki/list/perk/butterfly_hunter.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/butterfly_hunter.png"
+        },
+        "builder": {
+            "file": "util/wiki/list/perk/builder.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/builder.png"
+        },
+        "sub-aquatic": {
+            "file": "util/wiki/list/perk/subaquatic.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/subaquatic.png"
+        },
+        "fire walker": {
+            "file": "util/wiki/list/perk/fire_walker.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/fire_walker.png"
+        },
+        "here comes the pain": {
+            "file": "util/wiki/list/perk/here_comes_the_pain.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/here_comes_the_pain.png"
+        },
+        "helping hand": {
+            "file": "util/wiki/list/perk/helping_hand.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/helping_hand.png"
+        },
+        "heavy hit": {
+            "file": "util/wiki/list/perk/heavy_hit.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/heavy_hit.png"
+        },
+        "fish on!": {
+            "file": "util/wiki/list/perk/fish_on.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/fish)ong.png"
+        },
+        "bullseye": {
+            "file": "util/wiki/list/perk/bullseye.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/bullseye.png"
+        },
+        "elemental armor": {
+            "file": "util/wiki/list/perk/elemental_armor.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/elemental_armor.png"
+        },
+        "bad bowels": {
+            "file": "util/wiki/list/perk/bad_bowels.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/bad_bowels.png"
+        },
+        "healthy hit": {
+            "file": "util/wiki/list/perk/healthy_hit.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/healthy_hit.png"
+        },
+        "quest hoarder": {
+            "file": "util/wiki/list/perk/quest_hoarder.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/quest_hoarder.png"
+        },
+        "critical strike": {
+            "file": "util/wiki/list/perk/critical_strike.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/critical_strike.png"
+        },
+        "booster booster": {
+            "file": "util/wiki/list/perk/booster_booster.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/booster_booster.png"
+        },
+        "kamikaze": {
+            "file": "util/wiki/list/perk/kamikaze.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/kamikaze.png"
+        },
+        "exploding guts": {
+            "file": "util/wiki/list/perk/exploding_guts.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/exploding_guts.png"
+        },
+        "immovable": {
+            "file": "util/wiki/list/perk/immovable.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/immovable.png"
+        },
+        "fierce companion": {
+            "file": "util/wiki/list/perk/fierce_companion.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/fierce_companion.png"
+        },
+        "confusing blow": {
+            "file": "util/wiki/list/perk/confusing_blow.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/confusing_blow.png"
+        },
+        "stockbroker": {
+            "file": "util/wiki/list/perk/stockbroker.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/stockbroker.png"
+        },
+        "puzzle master": {
+            "file": "util/wiki/list/perk/puzzle_master.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/puzzle_master.png"
+        },
+        "antidote": {
+            "file": "util/wiki/list/perk/antidote.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/antidote.png"
+        },
+        "pet trainer": {
+            "file": "util/wiki/list/perk/pet_trainer.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/pet_trainer.png"
+        },
+        "flying magnet": {
+            "file": "util/wiki/list/perk/flying_magnet.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/flying_magnet.png"
+        },
+        "vampire": {
+            "file": "util/wiki/list/perk/vampire.txt",
+            "useWiki": true,
+            "data": [],
+            "image": "util/wiki/list/perk/icon/vampire.png"
+        }
+    }
+}

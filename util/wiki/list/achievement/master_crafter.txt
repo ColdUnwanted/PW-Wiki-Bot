@@ -1,0 +1,30 @@
+```
+╔═══╦═════════════╦══════════╗
+║   ║ DESCRIPTION ║  REWARD  ║
+╠═══╬═════════════╬══════════╣
+║ 1 ║   Craft 1   ║   1 day  ║
+║   ║  item with  ║  of VIP  ║
+║   ║     the     ║     &    ║
+║   ║  replicator ║ 4,000 XP ║
+╠═══╬═════════════╬══════════╣
+║ 2 ║   Craft 2   ║  2 days  ║
+║   ║  items with ║  of VIP  ║
+║   ║     the     ║     &    ║
+║   ║  replicator ║ 5,000 XP ║
+╠═══╬═════════════╬══════════╣
+║ 3 ║   Craft 4   ║  3 days  ║
+║   ║  items with ║  of VIP  ║
+║   ║     the     ║     &    ║
+║   ║  replicator ║ 5,000 XP ║
+╠═══╬═════════════╬══════════╣
+║ 4 ║   Craft 6   ║  4 days  ║
+║   ║  items with ║  of VIP  ║
+║   ║     the     ║     &    ║
+║   ║  replicator ║ 8,000 XP ║
+╠═══╬═════════════╬══════════╣
+║ 5 ║   Craft 10  ║  5 days  ║
+║   ║  items with ║  of VIP  ║
+║   ║     the     ║          ║
+║   ║  replicator ║          ║
+╚═══╩═════════════╩══════════╝
+```

@@ -1,0 +1,30 @@
+```
+╔═══╦═════════════╦═══════════╗
+║   ║ DESCRIPTION ║   REWARD  ║
+╠═══╬═════════════╬═══════════╣
+║ 1 ║ Fuse shards ║  2,000 XP ║
+║   ║ to a higher ║           ║
+║   ║    rarity   ║           ║
+║   ║   5 times   ║           ║
+╠═══╬═════════════╬═══════════╣
+║ 2 ║ Fuse shards ║  3,000 XP ║
+║   ║ to a higher ║           ║
+║   ║    rarity   ║           ║
+║   ║   25 times  ║           ║
+╠═══╬═════════════╬═══════════╣
+║ 3 ║ Fuse shards ║  5,000 XP ║
+║   ║ to a higher ║           ║
+║   ║    rarity   ║           ║
+║   ║   50 times  ║           ║
+╠═══╬═════════════╬═══════════╣
+║ 4 ║ Fuse shards ║  8,000 XP ║
+║   ║ to a higher ║           ║
+║   ║    rarity   ║           ║
+║   ║  100 times  ║           ║
+╠═══╬═════════════╬═══════════╣
+║ 5 ║ Fuse shards ║ 10,000 XP ║
+║   ║ to a higher ║           ║
+║   ║    rarity   ║           ║
+║   ║  250 times  ║           ║
+╚═══╩═════════════╩═══════════╝
+```

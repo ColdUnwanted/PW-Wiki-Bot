@@ -1,0 +1,8 @@
+```md
+21. Snufnomad Scarf - Reeling Speed Boost
+22. Fisher Whistle - Strike Frequency Boost
+23. Bait Earring - Strike Sensitive Boost
+24. Worm Necklace - Strike Frequency Boost
+25. Bubble Pipe - Ingredient Frequency
+26. Fishing Amulet - Remove Lure Stolen
+```

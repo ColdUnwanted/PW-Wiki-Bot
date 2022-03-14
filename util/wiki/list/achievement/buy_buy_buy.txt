@@ -1,0 +1,23 @@
+```
+╔═══╦═════════════╦══════════╗
+║   ║ DESCRIPTION ║  REWARD  ║
+╠═══╬═════════════╬══════════╣
+║ 1 ║  Buy 50,000 ║   1 day  ║
+║   ║  byte coins ║  of VIP  ║
+║   ║   worth of  ║     &    ║
+║   ║   items in  ║ 2,000 XP ║
+║   ║     PWE     ║          ║
+╠═══╬═════════════╬══════════╣
+║ 2 ║ Buy 100,000 ║  2 days  ║
+║   ║  byte coins ║  of VIP  ║
+║   ║   worth of  ║     &    ║
+║   ║   items in  ║ 4,000 XP ║
+║   ║     PWE     ║          ║
+╠═══╬═════════════╬══════════╣
+║ 3 ║ Buy 250,000 ║  3 days  ║
+║   ║  byte coins ║  of VIP  ║
+║   ║   worth of  ║     &    ║
+║   ║   items in  ║ 6,000 XP ║
+║   ║     PWE     ║          ║
+╚═══╩═════════════╩══════════╝
+```

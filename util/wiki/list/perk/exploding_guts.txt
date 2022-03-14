@@ -1,0 +1,11 @@
+```
+╔═════════════════════════╦══════════╗
+║          EFFECT         ║   LEVEL  ║
+║                         ║ UNLOCKED ║
+╠═════════════════════════╬══════════╣
+║   You explode when you  ║    125   ║
+║   are killed, dealing   ║          ║
+║ damage to others around ║          ║
+║           you           ║          ║
+╚═════════════════════════╩══════════╝
+```

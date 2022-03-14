@@ -1,0 +1,28 @@
+╔═══╦════════════════╦══════════╗
+║   ║   DESCRIPTION  ║  REWARD  ║
+╠═══╬════════════════╬══════════╣
+║ 1 ║     Have 10    ║ 1,000 XP ║
+║   ║    different   ║          ║
+║   ║  wearables in  ║          ║
+║   ║ your inventory ║          ║
+╠═══╬════════════════╬══════════╣
+║ 2 ║     Have 20    ║ 2,000 XP ║
+║   ║    different   ║          ║
+║   ║  wearables in  ║          ║
+║   ║ your inventory ║          ║
+╠═══╬════════════════╬══════════╣
+║ 3 ║     Have 30    ║ 2,000 XP ║
+║   ║    different   ║          ║
+║   ║  wearables in  ║          ║
+║   ║ your inventory ║          ║
+╠═══╬════════════════╬══════════╣
+║ 4 ║     Have 50    ║ 5,000 XP ║
+║   ║    different   ║          ║
+║   ║  wearables in  ║          ║
+║   ║ your inventory ║          ║
+╠═══╬════════════════╬══════════╣
+║ 5 ║     Have 90    ║ 7,000 XP ║
+║   ║    different   ║          ║
+║   ║  wearables in  ║          ║
+║   ║ your inventory ║          ║
+╚═══╩════════════════╩══════════╝

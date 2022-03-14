@@ -1,0 +1,62 @@
+{
+    "soil block": [
+        "dirt"
+    ],
+    "candy cane block": [
+        "ccb"
+    ],
+    "spike bomb": [
+        "sb"
+    ],
+    "golden visor": [
+        "gv"
+    ],
+    "shogun": [
+        "sg"
+    ],
+    "jet pack": [
+        "jp"
+    ],
+    "nether crystal": [
+        "nc"
+    ],
+    "frost cape": [
+        "fc"
+    ],
+    "frost sword": [
+        "fs"
+    ],
+    "emerald sword": [
+        "es"
+    ],
+    "medium lock": [
+        "ml"
+    ],
+    "small lock": [
+        "sl"
+    ],
+    "large lock": [
+        "ll"
+    ],
+    "world lock": [
+        "wl"
+    ],
+    "plantium lock": [
+        "pl"
+    ],
+    "sea wings": [
+        "sw"
+    ],
+    "pro water gun": [
+        "pwg"
+    ],
+    "dark cherub": [
+        "dc"
+    ],
+    "blueprint": [
+        "bp"
+    ],
+    "golden short sword": [
+        "gss"
+    ]
+}

@@ -1,0 +1,11 @@
+```
+╔════════════════════╦══════════╗
+║       EFFECT       ║   LEVEL  ║
+║                    ║ UNLOCKED ║
+╠════════════════════╬══════════╣
+║ Doubles the chance ║    15    ║
+║    of dropping a   ║          ║
+║   block when you   ║          ║
+║    break a block   ║          ║
+╚════════════════════╩══════════╝
+```

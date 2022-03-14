@@ -1,0 +1,14 @@
+{
+    "general": {
+        "token": "123",
+        "id": "123",
+        "desc": "Discord.js Yay",
+        "default_prefix": "!",
+        "status": "your !help command",
+        "owner_id": "123"
+    },
+    "wiki": {
+        "bot_name": "123",
+        "bot_password": "123"
+    }
+}

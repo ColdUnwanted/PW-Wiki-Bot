@@ -1,0 +1,12 @@
+```
+╔════════════════╦══════════╗
+║     EFFECT     ║   LEVEL  ║
+║                ║ UNLOCKED ║
+╠════════════════╬══════════╣
+║ Gives an extra ║    25    ║
+║   life in the  ║          ║
+║   Secret Base  ║          ║
+║   and in the   ║          ║
+║   Netherworld  ║          ║
+╚════════════════╩══════════╝
+```

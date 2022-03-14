@@ -1,0 +1,42 @@
+dirt
+soil block
+ccb
+candy cane block
+sb
+spike bomb
+gv
+golden visor
+sg
+shogun
+jp
+jet pack
+nc
+nether crystal
+fc
+frost cape
+fs
+frost sword
+es
+emerald sword
+ml
+medium lock
+sl
+small lock
+ll
+large lock
+wl
+world lock
+pl
+platinum lock
+sw
+sea wings
+pwg
+pro water gun
+dc
+dark cherub
+bp
+blueprint
+gss
+golden short sword
+ffm
+familiar food machine

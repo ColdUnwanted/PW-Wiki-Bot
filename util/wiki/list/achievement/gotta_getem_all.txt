@@ -1,0 +1,23 @@
+```
+╔═══╦═════════════╦══════════╗
+║   ║ DESCRIPTION ║  REWARD  ║
+╠═══╬═════════════╬══════════╣
+║ 1 ║   Have 75   ║   1 day  ║
+║   ║  different  ║  of VIP  ║
+║   ║ Battle Card ║     &    ║
+║   ║   in your   ║ 2,000 XP ║
+║   ║  collection ║          ║
+╠═══╬═════════════╬══════════╣
+║ 2 ║   Have 100  ║  3 days  ║
+║   ║  different  ║  of VIP  ║
+║   ║ Battle Card ║     &    ║
+║   ║   in your   ║   ? XP   ║
+║   ║  collection ║          ║
+╠═══╬═════════════╬══════════╣
+║ 3 ║   Have 150  ║  5 days  ║
+║   ║  different  ║  of VIP  ║
+║   ║ Battle Card ║     &    ║
+║   ║   in your   ║   ? XP   ║
+║   ║  collection ║          ║
+╚═══╩═════════════╩══════════╝
+```

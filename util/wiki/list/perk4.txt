@@ -1,0 +1,7 @@
+```md
+31. Puzzle Master
+32. Antidote
+33. Pet Trainer
+34. Flying Magnet
+35. Vampire
+```

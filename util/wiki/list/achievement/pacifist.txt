@@ -1,0 +1,11 @@
+```
+╔═══╦════════════════╦══════════╗
+║   ║   DESCRIPTION  ║  REWARD  ║
+╠═══╬════════════════╬══════════╣
+║ 1 ║    Complete    ║ Pacifist ║
+║   ║   netherworld  ║  Wreath  ║
+║   ║    with all    ║     &    ║
+║   ║ monsters still ║ 5,000 XP ║
+║   ║      alive     ║          ║
+╚═══╩════════════════╩══════════╝
+```

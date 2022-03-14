@@ -1,0 +1,12 @@
+```md
+1. Seadog Hat - Strike Frequency Boost
+2. Seadog Coat - Slower Fish Speed
+3. Peg Leg Pants - Reel Drag Boost
+4. Seadog Beard - Strike Time Extender
+5. Rodster Hat - Strike Frequency Boost
+6. Rodster Toga - Slower Fish Speed
+7. Rodster Sandals - Reel Drag Boost
+8. Rodster Net - Strike Time Extender
+9. Rodster Fishbasket - Minimize Fish Runs
+10. Pro Fisher Visor Hat - Strike Frequency Boost
+```

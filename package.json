@@ -1,0 +1,31 @@
+{
+  "name": "PWB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "axios": "^0.21.4",
+    "axios-cookiejar-support": "^1.0.1",
+    "canvas": "^2.9.0",
+    "difflib": "^0.2.4",
+    "discord-api-types": "^0.22.0",
+    "discord.js": "^13.1.0",
+    "i18n": "^0.13.3",
+    "mysql": "^2.18.1",
+    "node-pre-gyp": "^0.17.0",
+    "ping": "^0.4.1",
+    "tough-cookie": "^4.0.0",
+    "word-wrap": "^1.2.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}

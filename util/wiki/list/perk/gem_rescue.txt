@@ -1,0 +1,11 @@
+```
+╔══════════════════╦══════════╗
+║      EFFECT      ║   LEVEL  ║
+║                  ║ UNLOCKED ║
+╠══════════════════╬══════════╣
+║  Keep 25% of the ║    10    ║
+║ gems gathered in ║          ║
+║  the Netherworld ║          ║
+║    if you die    ║          ║
+╚══════════════════╩══════════╝
+```

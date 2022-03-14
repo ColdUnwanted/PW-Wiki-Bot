@@ -1,0 +1,23 @@
+```
+╔═══╦══════════════╦════════════╗
+║   ║  DESCRIPTION ║   REWARD   ║
+╠═══╬══════════════╬════════════╣
+║ 1 ║    Finish    ║   50 byte  ║
+║   ║  secret base ║    coins   ║
+║   ║ in less than ║      &     ║
+║   ║   4 minutes  ║  4,000 XP  ║
+║   ║     once     ║            ║
+╠═══╬══════════════╬════════════╣
+║ 2 ║    Finish    ║ 2,000 byte ║
+║   ║  secret base ║    coins   ║
+║   ║ in less than ║      &     ║
+║   ║   4 minutes  ║  5,000 XP  ║
+║   ║   25 times   ║            ║
+╠═══╬══════════════╬════════════╣
+║ 3 ║    Finish    ║ 6,000 byte ║
+║   ║  secret base ║    coins   ║
+║   ║ in less than ║      &     ║
+║   ║   4 minutes  ║  6,000 XP  ║
+║   ║   50 times   ║            ║
+╚═══╩══════════════╩════════════╝
+```

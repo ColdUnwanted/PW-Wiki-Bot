@@ -1,0 +1,83 @@
+{
+	"invite": {
+		"description": "The invite link to invite this bot.",
+		"message": "[Invite Link](<https://justunwanted.com/PWWB/invite>)"
+	},
+	"wiki": {
+		"description": "Find item on the wiki site.",
+		"optionName": "item",
+		"optionDescription": "The item name that you wish to find.",
+		"askSearch": "Hi there, **{name}**! What would you like to find on the wiki?",
+		"timeoutMessage": "Search cancelled due to timout!\n**Please type {prefix}wiki [item name] to redo the search.**",
+		"startSearch": "Searching for your item, please wait...",
+		"searchCancel": "Search cancelled as requested!\n**Please type {prefix}wiki [item name] to redo the search.**",
+		"searchQuery": "__Item does not exists! Did you meant: __\n**1.** {result1}\n**2.** {result2}\n**3.** {result3}\n**4.** {result4}\n**5.** {result5}\n\n**Not what you wanted? Press Cancel and try again.**",
+		"loadingMessage": "Currently loading your item's data.",
+		"loadingMessageBooster": "Currently loading booster data. \n**This might take awhile depending on the number of items in the booster.**",
+		"searchMessage": "For more of the item, click here: [{item_name}](https://pixelworlds.fandom.com/wiki/{item_url} \"{item_name}\")",
+		"searchMessageBooster": "For more of the booster, click here: [{item_name}](https://pixelworlds.fandom.com/wiki/{item_url} \"{item_name}\")",
+		"itemExistFailed": "Item exists but can't be display, click here: [{item_name}](https://pixelworlds.fandom.com/wiki/{item_url} \"{item_name}\")",
+		"boosterExistFailed": "Item exists but can't be display, click here: [{item_name}](https://pixelworlds.fandom.com/wiki/{item_url} \"{item_name}\")"
+	},
+	"setup": {
+		"description": "To setup the server's configuration.",
+		"message": "Server has already been setup! Do you wish to redo the setup process?",
+		"prefixMessage": "Enter the **prefix** you would like this bot to use.\nPress the button below to skip.",
+		"roleMessage": "Select the role you would like it to be the **mod role** for this bot.\nPress the button below to skip.",
+		"mailMessage": "Do you want to turn on the mail system?\nPress the button below to choose.",
+		"completeMessage": "Setup completed.\nPlease type {prefix}config to view your new configuration.",
+		"doneMessage": "Server has already been setup!",
+		"timoutMessage": "Setup cancelled due to timout!\n**Please type {prefix}setup to redo the setup.**",
+		"cancelMessage": "Setup cancelled as requested."
+	},
+	"config": {
+		"description": "Check the current bot configuration for the server.",
+		"message": "{text}\n```diff\n+ To change any configuration, type {prefix}setup to change the configuration.```",
+		"setupAlreadyTrue": "Great News! Your server has already setup and everything is functioning.",
+		"setupAlreadyFalse": "Aww! It seems like your server isn't setup yet. \nType {prefix}setup to complete the setup."
+	},
+	"help": {
+		"description": "Display the basic info about Pixel Worlds Bot",
+		"message": "Prefix for **{name}** is `{prefix}`\n**Note: \nThis bot is designed by __{owner}__ for users to interact with fandom via Discord directly.**```diff\n- [] = optional argument\n- <> = required argument\n+ Type {prefix}help [command] for more help on a command!\n+ Or use the dropdown below to select the command!```[Support](<https://discord.gg/4WSbJH4>) | [Invite](<https://justunwanted.com/PWWB/invite>)",
+		"optionName": "command",
+		"optionDescription": "What command do you need help on?",
+		"commands": {
+			"default": "The command `{command}` is not found!",
+			"help": "**{prefix}{command} [command]**\nUsed to display a list of commands, news or to display what each commands does.",
+			"ping": "**{prefix}{command}**\nUsed to display the ping of the bot to the Discord's websocket, Discord's API and PW Fandom.",
+			"uptime": "**{prefix}{command}**\nUsed to display the bot's uptime.",
+			"wiki": "**{prefix}{command} [item name]**\nUses Fandom's API, the item will be fetched from Pixel Worlds Wiki and displayed to you.",
+			"list": "**{prefix}{command} [list name / item number] [inner list name / inner item number]**\nUsed to display a list of the following item.",
+            "config": "**{prefix}{command}**\nUsed by admins to view the bot configuration on the server.",
+			"setup": "**{prefix}{command}**\nUsed by admins to setup the bot configuration on the server.",
+			"invite": "**{prefix}{command}**\nUsed to view the invite link to add the bot to your own server.",
+			"suggest": "**{prefix}{command} [suggestion]**\nUsed to send your suggestion on the bot."
+		}
+	},
+	"uptime": {
+		"description": "Check bot's uptime",
+		"message": "Uptime: **{days}** day(s), **{hours}** hours, **{minutes}** minutes, **{seconds}** seconds"
+	},
+	"ping": {
+		"description": "Check bot's ping",
+		"message": "Ping to websocket: **{websocket}**\nPing to API: **{api}**\nPing to PW Fandom: **{fandom}**"
+	},
+	"common": {
+		"cooldownTitle": "Chill Out Y'all, We Can think This Through!",
+		"cooldownMessage": "This command can be used again in **{time}s**",
+		"interactionError": "Sorry, there was an error executing this {type}!",
+		"interactionAuthorError": "Hey! It's not your requested command, shoo!",
+		"permissionError": "You do not have the required permission to run this command!",
+		"interactionPermissionError": "Sorry! I do not have the permission to send to this channel!"
+	},
+	"news": {
+		"message": "**__Last Updated 26/09/2021__**\n • Bot random restart issue.\n • Added list command.\n • Fixed graffiti pages text issue."
+	},
+	"list": {
+		"description": "To view a quest list, achivement list or other lists",
+        "loading": "Currently loading all available list, please wait.",
+        "loadingSearch": "Currently searching for the list, please wait.",
+        "optionName": "list",
+		"optionDescription": "What list are you looking for?"
+	}
+}

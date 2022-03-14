@@ -1,0 +1,12 @@
+```md
+11. Pro Fisher Glasses - Strike Time Extender
+12. Pro Fisher Face Scarf - Ingredient Frequency
+13. Pro Fisher Suit - Strike Frequency Boost
+14. Bait Hat - Strike Frequency Boost
+15. Lure Hat - Strike Frequency Boost
+16. Lure Vest - Reeling Speed Boost
+17. Bait Vest - Extended Optimal Depth
+18. Fish Shoes - Minimize Fish Runs
+19. Worm Tail - Strike Time Extender
+20. Snufnomad Hat - Strike Frequency Boost
+```

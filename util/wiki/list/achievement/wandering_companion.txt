@@ -1,0 +1,30 @@
+```
+╔═══╦══════════════╦════════════╗
+║   ║  DESCRIPTION ║   REWARD   ║
+╠═══╬══════════════╬════════════╣
+║ 1 ║   Reach 25   ║  150 byte  ║
+║   ║ hours of pet ║    coins   ║
+║   ║  adventures  ║      &     ║
+║   ║              ║  3,000 XP  ║
+╠═══╬══════════════╬════════════╣
+║ 2 ║   Reach 100  ║  500 byte  ║
+║   ║ hours of pet ║    coins   ║
+║   ║  adventures  ║      &     ║
+║   ║              ║  4,000 XP  ║
+╠═══╬══════════════╬════════════╣
+║ 3 ║   Reach 250  ║ 1,000 byte ║
+║   ║ hours of pet ║    coins   ║
+║   ║  adventures  ║      &     ║
+║   ║              ║  6,000 XP  ║
+╠═══╬══════════════╬════════════╣
+║ 4 ║   Reach 750  ║ 2,000 byte ║
+║   ║ hours of pet ║    coins   ║
+║   ║  adventures  ║      &     ║
+║   ║              ║  8,000 XP  ║
+╠═══╬══════════════╬════════════╣
+║ 5 ║  Reach 1,000 ║ 5,000 byte ║
+║   ║ hours of pet ║    coins   ║
+║   ║  adventures  ║      &     ║
+║   ║              ║  10,000 XP ║
+╚═══╩══════════════╩════════════╝
+```

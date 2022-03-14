@@ -1,0 +1,12 @@
+```
+╔═════════════════════════╦══════════╗
+║          EFFECT         ║   LEVEL  ║
+║                         ║ UNLOCKED ║
+╠═════════════════════════╬══════════╣
+║   Deal 5% more damage   ║    100   ║
+║   when at full health,  ║          ║
+║  however deal 10% less  ║          ║
+║ damage when not at full ║          ║
+║          health         ║          ║
+╚═════════════════════════╩══════════╝
+```

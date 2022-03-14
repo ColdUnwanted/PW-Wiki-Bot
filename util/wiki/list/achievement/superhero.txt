@@ -1,0 +1,12 @@
+```
+╔═══╦═══════════════╦═══════════╗
+║   ║  DESCRIPTION  ║   REWARD  ║
+╠═══╬═══════════════╬═══════════╣
+║ 1 ║     Finish    ║   Heroic  ║
+║   ║  Secret Base  ║ Blindfold ║
+║   ║ alone without ║     &     ║
+║   ║   taking any  ║  7,000 XP ║
+║   ║     damage    ║           ║
+║   ║  (Level 35+)  ║           ║
+╚═══╩═══════════════╩═══════════╝
+```

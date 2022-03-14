@@ -1,0 +1,11 @@
+```
+╔════════════════════════╦══════════╗
+║         EFFECT         ║   LEVEL  ║
+║                        ║ UNLOCKED ║
+╠════════════════════════╬══════════╣
+║    Slight chance of    ║    140   ║
+║ inverting the controls ║          ║
+║    of another player   ║          ║
+║    when you hit them   ║          ║
+╚════════════════════════╩══════════╝
+```
